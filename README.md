@@ -1,16 +1,38 @@
-# CSC-490-TextbookApp
+****currently being written****
+# University Textbook Marketplace
 
-Cutting out the middle man and making it easier to get the textbooks you need.
+This project is an a responsive web app to help address high textbook prices by making sales directly student to student and centralized on a university campus
 
-## Authors
+## Why ?
+different sections.
 
-* **Alejandro Penaloza** - [Github](https://github.com/apenaloza7)
-* **Amantii Samson** - [Github](https://github.com/Amantii)
-* **Honey Kumar** - [Github](https://github.com/)
-* **Ilyass Sfar** - [Github](https://github.com/)
-* **Amina Fraz** - [Github](https://github.com/)
-* **Quinn Tjin-a-soe** - [Github](https://github.com/)
 
-## Stack Used / Requirements
+## Objective & Implementation
 
-N/A
+- **The main objective of this project is to help make textbook prices lower, by making the sales student to student only**
+....
+
+
+## Features
+
+- Secure user accounts with hashed passwords 
+
+- Browse textbooks for sale
+
+- Textbook filtering by title and condition 
+
+- Admin dashboard to edit and delete current user and post information if needed
+
+- Post textbooks for sale
+
+- User profiles 
+
+
+
+## Documentation
+
+
+
+
+### Authors
+- [@cloud0x9](https://github.com/cloud0x9) ......
