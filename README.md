@@ -45,4 +45,4 @@ This project is an a responsive web app to help address high textbook prices by 
 This project was made in a team of six over the course of three months in a senior capstone course using the agile method of development. 
 
 ## Authors
-- [@cloud0x9](https://github.com/cloud0x9) ......
+- [@xsfar](https://github.com/xsfar) , [@Amina-Fraz](https://github.com/Amina-Fraz) , [@apenaloza7](https://github.com/apenaloza7) , [@hkumar7865](https://github.com/hkumar7865) ,[@Amantii](https://github.com/Amantii) , [@QuinnTjin](https://github.com/QuinnTjin) 
